@@ -1,0 +1,28 @@
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas_Uz.Form1.resources
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.csproj.GenerateResource.cache
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.AssemblyInfo.cs
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\Ilyas Uz.exe
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\Ilyas Uz.deps.json
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\Ilyas Uz.runtimeconfig.json
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\Ilyas Uz.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\Ilyas Uz.pdb
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.csproj.CopyComplete
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\refint\Ilyas Uz.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.pdb
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas Uz.genruntimeconfig.cache
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\ref\Ilyas Uz.dll
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas_Uz.Product.resources
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas_Uz.Form2.resources
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas_Uz.Form3.resources
+C:\Users\TUF GAMING\source\repos\Ilyas Uz\Ilyas Uz\obj\Debug\net6.0-windows\Ilyas_Uz.Users.resources
